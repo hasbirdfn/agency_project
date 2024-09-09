@@ -1,6 +1,6 @@
 # React + Vite + Flowbite + AOS
 
-Agencey-project merupakan landing page perusahaan HasBcode dengan memberikan informasi sebagai perusahaan starup Software House yang berfokus pada pengembangan website sasarab utama adalah para UMKM
+Agency-project merupakan landing page perusahaan HasBcode dengan memberikan informasi sebagai perusahaan starup Software House yang berfokus pada pengembangan website sasarab utama adalah para UMKM
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
