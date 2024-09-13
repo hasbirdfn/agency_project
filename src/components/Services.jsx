@@ -2,15 +2,15 @@ import React from 'react';
 
 function Services() {
     const options = [
-        {id:1, title:"FIT & GAP", description: "Proses analisa bisnis guna mendapatkan formula implementasi system yang efektif dan efisien", image: "/assets/icons/membership.png"},
-        {id:2, title:"HARGA TERJANGKAU", description: "Memberikan pelayanan terbaik, dengan kantong yang pas untuk Anda", image: "/assets/icons/asosiasi.png"},
-        {id:3, title:"MAINTENANCE", description: "Membantu pemeliharaan atas penggunaan system yang sesuai pengembangan & analisa bisnis Anda", image: "/assets/icons/umkm.png"},
+        {id:1, title:"FIT & GAP", description: "Proses analisa bisnis guna mendapatkan formula implementasi system yang efektif dan efisien", image: "/src/assets/icons/membership.png"},
+        {id:2, title:"HARGA TERJANGKAU", description: "Memberikan pelayanan terbaik, dengan kantong yang pas untuk Anda", image: "/src/assets/icons/asosiasi.png"},
+        {id:3, title:"MAINTENANCE", description: "Membantu pemeliharaan atas penggunaan system yang sesuai pengembangan & analisa bisnis Anda", image: "/src/assets/icons/umkm.png"},
     ];
 
     const services =  [
-        {id:1, title:"MEMBER ORGANISASI", description: "Perangkat lunak manajemen keanggotaan kami menyediakan animasi penuh untuk perpanjangan keanggotaan dan pembayaran", image: "/assets/icons/membership.png"},
-        {id:2, title:"ASOSIASI NASIONAL", description: "Perangkat lunak manajemen keanggotaan kami menyediakan animasi penuh untuk perpanjangan keanggotaan dan pembayaran", image: "/assets/icons/asosiasi.png"},
-        {id:3, title:"UMKM", description: "Perangkat lunak manajemen keanggotaan kami menyediakan animasi penuh untuk perpanjangan keanggotaan dan pembayaran", image: "/assets/icons/umkm.png"},
+        {id:1, title:"MEMBER ORGANISASI", description: "Perangkat lunak manajemen keanggotaan kami menyediakan animasi penuh untuk perpanjangan keanggotaan dan pembayaran", image: "/src/assets/icons/membership.png"},
+        {id:2, title:"ASOSIASI NASIONAL", description: "Perangkat lunak manajemen keanggotaan kami menyediakan animasi penuh untuk perpanjangan keanggotaan dan pembayaran", image: "/src/assets/icons/asosiasi.png"},
+        {id:3, title:"UMKM", description: "Perangkat lunak manajemen keanggotaan kami menyediakan animasi penuh untuk perpanjangan keanggotaan dan pembayaran", image: "/src/assets/icons/umkm.png"},
     ];
 
     return (
@@ -44,12 +44,12 @@ function Services() {
 
                 {/* company logo */}
                 <div className='my-12 flex flex-wrap justify-center items-center gap-4 md:gap-8'>
-                    <img src="/assets/icons/tokopedia.png" alt="tokopedia" className="h-12 md:h-16" />
-                    <img src="/assets/icons/shopee.png" alt="shopee" className="h-12 md:h-16" />
-                    <img src="/assets/icons/lazada.png" alt="lazada" className="h-12 md:h-16" />
-                    <img src="/assets/icons/tiktok.png" alt="tiktok" className="h-12 md:h-16" />
-                    <img src="/assets/icons/instagram.png" alt="instagram" className="h-12 md:h-16" />
-                    <img src="/assets/icons/facebook.png" alt="facebook" className="h-12 md:h-16" />
+                    <img src="/src/assets/icons/tokopedia.png" alt="tokopedia" className="h-12 md:h-16" />
+                    <img src="/src/assets/icons/shopee.png" alt="shopee" className="h-12 md:h-16" />
+                    <img src="/src/assets/icons/lazada.png" alt="lazada" className="h-12 md:h-16" />
+                    <img src="/src/assets/icons/tiktok.png" alt="tiktok" className="h-12 md:h-16" />
+                    <img src="/src/assets/icons/instagram.png" alt="instagram" className="h-12 md:h-16" />
+                    <img src="/src/assets/icons/facebook.png" alt="facebook" className="h-12 md:h-16" />
                 </div>
             </div>
 

@@ -8,21 +8,21 @@ const testimonials = [
         name: "John Doe",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
         rating: 4.95,
-        image: "/assets/programmer.png" // Replace with actual image paths
+        image: "/src/assets/programmer.png" // Replace with actual image paths
     },
     {
         id: 2,
         name: "Jane Smith",
         text: "Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper eleifend.",
         rating: 4.85,
-        image: "/assets/programmer.png"
+        image: "/src/assets/programmer.png"
     },
     {
         id: 3,
         name: "Robert Brown",
         text: "Curabitur sit amet mauris morbi in dui quis est pulvinar ullamcorper. Sed ac orci quis lorem hendrerit sollicitudin at nec purus.",
         rating: 5.00,
-        image: "/assets/programmer.png"
+        image: "/src/assets/programmer.png"
     }
 ];
 

@@ -6,9 +6,9 @@ import 'aos/dist/aos.css';
 const Blog = () => {
     
     const blogs = [
-        {id: 1, title: "Bagaimana respon UMKM terhadap pelayanan DINOV?", image:"/assets/programmer.png"},
-        {id: 2, title: "Respon Positif dari Membership yang sudah tergabung", image:"/assets/programmer.png"},
-        {id: 3, title: "Pentingnya UMKM melakukan transformasi digital", image:"/assets/programmer.png"},
+        {id: 1, title: "Bagaimana respon UMKM terhadap pelayanan DINOV?", image:"/src/assets/programmer.png"},
+        {id: 2, title: "Respon Positif dari Membership yang sudah tergabung", image:"/src/assets/programmer.png"},
+        {id: 3, title: "Pentingnya UMKM melakukan transformasi digital", image:"/src/assets/programmer.png"},
     ];
 
     useEffect(() => {
