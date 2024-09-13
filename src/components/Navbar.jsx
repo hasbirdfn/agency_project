@@ -37,7 +37,7 @@ function Navbar() {
             { link: "Servis", path: "service" },
             { link: "Produk", path: "product" },
             { link: "Testimoni", path: "testimoni" },
-            { link: "Pertanyaan", path: "faq" },
+            { link: "Blog", path: "blog" },
         ];
   return (
     <header className='w-full bg-white md:bg-transparent fixed top-0 left-0 right-0'>

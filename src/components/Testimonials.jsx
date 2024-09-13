@@ -28,7 +28,7 @@ const testimonials = [
 
 const Testimonial = () => {
     return (
-        <div className='px-4 lg:px-14 max-w-screen-2xl mx-auto my-12' id='testimonial'>
+        <div className='px-4 lg:px-14 max-w-screen-2xl mx-auto my-12' id='testimoni'>
             <div className='text-center md:w-1/2 mx-auto'>
                 <h2 className='text-4xl text-neutralDGrey font-semibold mb-4'>Apa Kata Mereka</h2>
                 <p className='text-sm text-neutralDGrey mb-8 md:w-3/4 mx-auto'>
